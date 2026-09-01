@@ -1,19 +1,13 @@
-# Vibrant Visuals by Shri v3
+Vibrant Visuals by Shri v4
 
-Upload the CONTENTS of this folder to the root of your GitHub Pages repository.
+Key changes:
+- Wedding-focused hero image
+- “Ways to collaborate” replaced by “Designed around the occasion”
+- New eyebrow: “What we bring to your event”
+- Service cards are more visual
+- Recent work heading changed to “Selected work & recent creations”
+- Event Frames copy softened
+- CTA changed to “Discuss Your Event”
+- No template blocks or developer placeholder notes
 
-Structure:
-- index.html
-- styles.css
-- assets/
-- photography/index.html
-- event-frames/index.html
-- food/index.html
-
-If your repo is `vv`, the pages become:
-- /vv/
-- /vv/photography/
-- /vv/event-frames/
-- /vv/food/
-
-This build uses the supplied photography and event-frame images. The Bespoke Food page is ready for a food gallery once food images are supplied.
+Upload the contents of this folder to the root of your GitHub Pages repository.
