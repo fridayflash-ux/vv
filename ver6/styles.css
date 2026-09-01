@@ -7,7 +7,7 @@ a{color:inherit}
 .brand{text-decoration:none;font-family:Georgia,serif;font-size:25px;font-weight:bold}
 .brand small{font:11px Arial,sans-serif;letter-spacing:2px;text-transform:uppercase}
 .nav{display:flex;gap:22px}.nav a{text-decoration:none;font-size:14px}
-.hero{min-height:74vh;display:flex;align-items:end;padding:7vw;color:white;background:linear-gradient(90deg,rgba(0,0,0,.72),rgba(0,0,0,.16)),url('assets/work-05.jpg') center/cover}
+.hero{min-height:74vh;display:flex;align-items:end;padding:7vw;color:white;background:linear-gradient(90deg,rgba(0,0,0,.72),rgba(0,0,0,.16)),url('assets/work-06.jpg') center/cover}
 .hero h1,.pagehero h1{font:700 clamp(48px,8vw,100px)/.95 Georgia,serif;margin:8px 0 20px}
 .hero p{max-width:720px;font-size:18px}
 .eyebrow{text-transform:uppercase;letter-spacing:3px;font-size:12px;font-weight:bold}
