@@ -1,19 +1,15 @@
-# Vibrant Visuals by Shri v3
+Vibrant Visuals by Shri v5
 
-Upload the CONTENTS of this folder to the root of your GitHub Pages repository.
+Updates:
+- Added View Full Portfolio after the Photography gallery
+- Removed Airbnb Service Listing
+- Removed Styled setups from $199
+- Blended the public fridayflash-ux/food repository into the Bespoke Food page
+- Added food gallery images from that repository
+- Replaced the homepage Bespoke Food placeholder graphic with a real food image
+- Kept the full food collection as a secondary link
 
-Structure:
-- index.html
-- styles.css
-- assets/
-- photography/index.html
-- event-frames/index.html
-- food/index.html
+Food images are referenced from:
+https://github.com/fridayflash-ux/food
 
-If your repo is `vv`, the pages become:
-- /vv/
-- /vv/photography/
-- /vv/event-frames/
-- /vv/food/
-
-This build uses the supplied photography and event-frame images. The Bespoke Food page is ready for a food gallery once food images are supplied.
+This avoids duplicating the same images across repositories. If you later want the Celebrate site fully self-contained, copy those files into /assets/food/ and change the image paths.
